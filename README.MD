@@ -15,3 +15,8 @@ serve para listar todos os meus arquivos e as respectivas flags "M", "d", "a", "
 * git push origin > nome da branch
 serve para enviar os commits feito do repositorio local para o repositorio remoto
 
+* git branch --list
+serve para listas todos as branches(uma raiz do seu projeto)
+
+* git branch -d > nome da branch
+serve para deletar uma branch
