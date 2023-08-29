@@ -12,5 +12,6 @@ serve para regitrar uma modificação feita no meu arquivo
 * git status -s 
 serve para listar todos os meus arquivos e as respectivas flags "M", "d", "a", "u"...
 
-* git push origin -"nome da branch"
+* git push origin > nome da branch
 serve para enviar os commits feito do repositorio local para o repositorio remoto
+
